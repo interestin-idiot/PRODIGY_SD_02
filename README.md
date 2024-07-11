@@ -6,6 +6,7 @@ Build a program that generates a random number and challenges the user to guess 
 
 # Dependencies :
 
-1.Python 3.12
+1. Python 3.12
+2. PySide6
+3. Random
 
-2.PySide6
