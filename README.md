@@ -41,7 +41,7 @@ Build a program that generates a random number and challenges the user to guess 
 2. Add text fields and buttons for user interaction.
 3. Use labels to show instructions and feedback to the player.
 
-# Game Flow:
+## Game Flow:
 
 1. When the game starts, generate a random number.
 2. The player types a guess and submits it.
@@ -49,7 +49,7 @@ Build a program that generates a random number and challenges the user to guess 
 4. If the guess is incorrect, the player tries again.
 5. If the guess is correct, the game congratulates the player and starts a new round.
 
-# Feedback and Messages:
+## Feedback and Messages:
 
 1. Inform the player if their input is not a valid number.
 2. Guide the player if their guess is too high or too low.
