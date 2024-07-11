@@ -13,26 +13,26 @@ Build a program that generates a random number and challenges the user to guess 
 # Project Overview
 ## Objectives:
 
-1. ** User Interaction **: Create an engaging game where players can guess a randomly selected number..
-2. ** Input and Feedback **: Allow players to enter their guesses and receive instant feedback.
-3. ** Guidance **: Inform players if their guesses are too high or too low to help them reach the correct answer.
-4. ** Success Acknowledgment **: Celebrate when the player guesses correctly.
-5. ** Game Reset **: Start a new game automatically after a correct guess to encourage continued play.
+1. **User Interaction**: Create an engaging game where players can guess a randomly selected number..
+2. **Input and Feedback**: Allow players to enter their guesses and receive instant feedback.
+3. **Guidance**: Inform players if their guesses are too high or too low to help them reach the correct answer.
+4. **Success Acknowledgment**: Celebrate when the player guesses correctly.
+5. **Game Reset**: Start a new game automatically after a correct guess to encourage continued play.
 
 # Project Structure
 ## Main Interface:
 
-1. ** Title and Instructions **: Display the game title and instructions for the player.
-2. ** Input Field **: Provide a space where players can type their guess.
-3. ** Submit Button **: A button to submit the player's guess.
-4. ** Feedback Display **: Show feedback based on the player's guess, indicating whether it was too high, too low, or correct.
+1. **Title and Instructions**: Display the game title and instructions for the player.
+2. **Input Field**: Provide a space where players can type their guess.
+3. **Submit Button**: A button to submit the player's guess.
+4. **Feedback Display**: Show feedback based on the player's guess, indicating whether it was too high, too low, or correct.
 
 ## Game Logic:
 
-1. ** Random Number Generation **: At the start of each game, select a random number for the player to guess.
-2. ** Guess Validation **: Check if the player's guess matches the target number, and provide appropriate feedback.
-3. ** Feedback Mechanism **: Inform the player if their guess is higher or lower than the target number.
-4. ** Winning Condition **: If the player's guess is correct, acknowledge their success and start a new game.
+1. **Random Number Generation**: At the start of each game, select a random number for the player to guess.
+2. **Guess Validation**: Check if the player's guess matches the target number, and provide appropriate feedback.
+3. **Feedback Mechanism**: Inform the player if their guess is higher or lower than the target number.
+4. **Winning Condition**: If the player's guess is correct, acknowledge their success and start a new game.
 
 # Implementation Details
 ## Interface Setup:
